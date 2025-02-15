@@ -19,5 +19,3 @@ An API endpoint where you can add new movies. **Duplicate movies are not allowed
 - **Note:** The same movie cannot be added twice.  
 
 ---
-
-🚀 **Happy coding!** 🎥  
